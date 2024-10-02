@@ -1,4 +1,4 @@
-# Transdisciplinary and systemic construction of a framework for assessing the sustainability of alternative food networks in Mexico City
+# Transdisciplinary and systemic construction of a framework for assessing the sustainability of alternative food networks in Mexico City (Bracamontes et al., 2024)
 
 Repositorio del script y datos de entrada de método Q asociados al artículo: Transdisciplinary and systemic construction of a framework for assessing the sustainability of alternative food networks in Mexico City
 
@@ -8,7 +8,7 @@ Repositorio del script y datos de entrada de método Q asociados al artículo: T
 
 `data`: datos obtenidos de la aplicación de 64 pruebas, capturando el valor indicado para cada afirmación
 
-# Sustainability assessment of three alternative food networks in Mexico City
+# Sustainability assessment of three alternative food networks in Mexico City (Bracamontes et al., 2025)
 
 Repositorio de bases de datos obtenidos de las encuestas aplicadas a través de KoboToolbox asociados al artículo: Sustainability assessment of three alternative food networks in Mexico City
 
