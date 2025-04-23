@@ -8,7 +8,7 @@ Repositorio del script y datos de entrada de método Q asociados al artículo: T
 
 `data`: datos obtenidos de la aplicación de 64 pruebas, capturando el valor indicado para cada afirmación
 
-# Sustainability assessment of three alternative food networks in Mexico City (Bracamontes et al., 2025)
+# Sustainability assessment of three alternative food networks in Mexico City (Bracamontes et al., nd)
 
 Repositorio de bases de datos obtenidos de las encuestas aplicadas a través de KoboToolbox asociados al artículo: Sustainability assessment of three alternative food networks in Mexico City
 
