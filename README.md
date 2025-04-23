@@ -19,3 +19,5 @@ Repositorio de bases de datos obtenidos de las encuestas aplicadas a través de 
 `Resultados Consumidorxs`: base de datos con respuestas de consumidores de las tres RAA analizadas
 
 `Resultados Coordinadorxs`: base de datos con respuestas de coordinadores de las tres RAA analizadas
+
+`Distancias Productorxs`: base de datos con distancias entre Productorxs y sitio de operación de las RAA
